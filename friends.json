@@ -1,0 +1,30 @@
+{
+  "BITTU":{
+    "name":"BITTU",
+    "age":"21",
+    "blood":"A+",
+    "eye":"black",
+    "nationality":"Indian",
+    "home":"Suri",
+    "religion":"Hindu"
+  },
+  "RAHUL":{
+    "name":"RAHUL",
+    "age":"20",
+    "blood":"B+",
+    "eye":"black",
+    "nationality":"Indian",
+    "home":"Suri",
+    "religion":"Hindu"
+  },
+  "SIDHU":{
+    "name":"SIDHU",
+    "age":"23",
+    "blood":"O+",
+    "eye":"brown",
+    "nationality":"Indian",
+    "home":"Suri",
+    "religion":"Hindu"
+  }
+}
+
