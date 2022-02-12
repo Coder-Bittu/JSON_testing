@@ -1,0 +1,40 @@
+{
+
+"BITTU SIK":{
+
+name: "BITTU",
+age: 22,
+eye: "black",
+blood: "A+",
+nationality: "Indian",
+home: "Suri"
+
+},
+
+
+
+"RAHUL":{
+
+name : "Rahul",
+age: 20,
+eye: "black",
+blood: "B+",
+nationality: "Indian",
+home: "Suri"
+
+},
+
+"SIDHU":{
+
+name: "Sidhu",
+age: 23,
+eye: "brown",
+blood: "O+",
+nationality: "Indian",
+home: "Suri"
+
+},
+
+
+
+}
